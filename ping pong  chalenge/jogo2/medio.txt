@@ -1,0 +1,4 @@
+fernando 23
+daniel 13
+diego 10
+fafa 4
